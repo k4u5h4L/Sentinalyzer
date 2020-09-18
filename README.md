@@ -64,3 +64,4 @@ npm start
 - Any contribution is welcome. You can fork and submit a pull request.
 
 - The dataset is got from [kaggle](https://kaggle.com) from [this page](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) by [lakshmi25npathi](https://www.kaggle.com/lakshmi25npathi)
+  Please download the dataset and unzip the csv file in a this file path `data/imdb_movie_reviews/IMDB_Dataset.csv` to train the model yourself.
