@@ -26,7 +26,7 @@
 - Clone and cd into the repo.
 
 ```
-git clone https://github.com/k4u5h4L/sarcasm-detector.git && cd sarcasm-detector
+git clone https://github.com/k4u5h4L/Sentinalyzer.git && cd Sentinalyzer
 ```
 
 - Cd into the client and install the required dependencies
